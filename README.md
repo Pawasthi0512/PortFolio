@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# PortFolio
-=======
+This Website is a portfolio which will show different personal and professional skills and works.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
